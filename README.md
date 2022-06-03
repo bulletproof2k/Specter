@@ -4,7 +4,7 @@
 
 # Specter for Stats.fm Desktop Bug Tracker
 
-### Node: Please check if someone has already created a bug report for your issue before submitting one
+### Note: Please check if someone has already created a bug report for your issue before submitting one
 
 ## FAQ
 
