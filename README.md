@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://specter.isontic.com/imgs/logo.svg" width=100 />
+</p>
+
 # Specter for Stats.fm Desktop Bug Tracker
 
-![Desktop Screenshot](https://specter.isontic.com/imgs/specter-desktop-0.png)
-
-## Please check if someone has already created a bug report for your issue before submitting one
+### Node: Please check if someone has already created a bug report for your issue before submitting one
 
 ## FAQ
 
