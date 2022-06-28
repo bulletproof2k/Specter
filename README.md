@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://specter.isontic.com/imgs/logo.svg" width=100 />
+  <img src="https://specter.stats.fm/imgs/logo.svg" width=100 />
 </p>
 
 # Specter for Stats.fm Desktop Bug Tracker
