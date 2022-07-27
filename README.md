@@ -2,7 +2,10 @@
   <img src="https://specter.stats.fm/imgs/logo.svg" width=100 />
 </p>
 
-# Specter for Stats.fm Desktop Bug Tracker
+# Specter for Stats.fm Desktop
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31CPGB)
+
+# Bug Tracker
 
 ### Note: Please check if someone has already created a bug report for your issue before submitting one
 
